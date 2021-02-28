@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-20 13:14+0200\n"
+"PO-Revision-Date: 2020-04-17 15:17+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+#: extension.js:216
+#, javascript-format
+msgid "Group of %d application"
+msgid_plural "Group of %d applications"
+msgstr[0] "Skupina %d aplikací"
+msgstr[1] "Gruppe von %d Anwendungen"
+
+#: prefs.xml:37
+msgid "Application title / Group name"
+msgstr ""
+
+#: prefs.xml:52 prefs.xml:106 prefs.xml:142
+msgid "Show in tooltip"
+msgstr ""
+
+#: prefs.xml:70
+#, fuzzy
+msgid "Show even if the icon-label is not elipsized"
+msgstr "Tooltipy zobrazit také tehdy, když popiska není zkrácená"
+
+#: prefs.xml:91
+msgid "Application description"
+msgstr ""
+
+#: prefs.xml:127
+#, fuzzy
+msgid "Application count on groups"
+msgstr "Zobrazit počet plikací ve skupiňe"
+
+#: prefs.xml:163
+msgid "Tooltip style"
+msgstr ""
+
+#: prefs.xml:178
+msgid "Draw borders"
+msgstr "Zobrazit rámeček"
+
+#: prefs.xml:199
+#, fuzzy
+msgid "Tooltip appearance"
+msgstr "<b>Vzhled Tooltipu</b>"
+
+#: prefs.xml:216
+#, fuzzy
+msgid "Timings"
+msgstr "<b>Doba zobrazení</b>"
+
+#: prefs.xml:231
+msgid "Hover time before the tooltip is displayed (in ms)"
+msgstr "Doba od najetí myší, než se Tooltip zobrazí (in ms)"
+
+#: prefs.xml:251
+msgid "Tooltip display animation duration (in ms)"
+msgstr "Doba trvaní animace při zobrazeí Tooltipu (v ms)"
+
+#: prefs.xml:271
+msgid "Tooltip dismiss animation duration (in ms)"
+msgstr "Doba trvaní animace při zavření Tooltipu (v ms)"
+
+#: prefs.xml:293
+msgid "Advanced settings"
+msgstr ""
+
+#~ msgid "<b>When to show Tooltip</b>"
+#~ msgstr "<b>Kdy Tooltip zobrazit</b>"
+
+#~ msgid "Display app description in the tooltip"
+#~ msgstr "Zobrazit popis aplikace v Tooltipu"
