@@ -1,2 +1,6 @@
-# dotfiles
-Configuration files of my system
+# Dotfiles
+Configuration files of my system and programs:
+- fish
+- starship
+- kitty
+- gnome dconf
