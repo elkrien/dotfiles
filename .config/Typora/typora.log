@@ -1,0 +1,726 @@
+INFO 14.02.2021, 17:20:43  luanchFromDiffVersion, pre version is undefined
+INFO 14.02.2021, 17:20:43  overwriteThemeFolder
+INFO 14.02.2021, 17:20:43  ------------------start------------------
+INFO 14.02.2021, 17:20:43  typora version: 0.9.98
+DEBUG 14.02.2021, 17:20:44  [
+  '/usr/share/typora/Typora',
+  '/home/mm/Pobrane/libreoffice-master/README.md'
+]
+DEBUG 14.02.2021, 17:20:44  app.openFile
+INFO 14.02.2021, 17:20:44  addRecentDocument
+INFO 14.02.2021, 17:20:44  [Raven] instanceKey = 51d51966-5b6f-4422-be0a-63929e3589f7
+INFO 14.02.2021, 17:20:44  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 14.02.2021, 17:20:44  [focus] 1
+INFO 14.02.2021, 17:20:47  handle document.loadInitData
+INFO 14.02.2021, 17:20:56  ----------------before-quit-----------------
+INFO 14.02.2021, 17:20:56  ------------------will-quit------------------
+INFO 14.02.2021, 17:21:02  ------------------start------------------
+INFO 14.02.2021, 17:21:02  typora version: 0.9.98
+DEBUG 14.02.2021, 17:21:02  [
+  '/usr/share/typora/Typora',
+  '/home/mm/Pobrane/libreoffice-master/INSTALL.md'
+]
+DEBUG 14.02.2021, 17:21:02  app.openFile
+INFO 14.02.2021, 17:21:02  addRecentDocument
+INFO 14.02.2021, 17:21:03  [Raven] instanceKey = 2996fd0a-6c7a-432f-ac76-2bb71c8bc2f2
+INFO 14.02.2021, 17:21:03  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 14.02.2021, 17:21:03  [focus] 1
+INFO 14.02.2021, 17:21:04  handle document.loadInitData
+INFO 14.02.2021, 17:21:21  ----------------before-quit-----------------
+INFO 14.02.2021, 17:21:21  ------------------will-quit------------------
+INFO 14.02.2021, 18:19:31  ------------------start------------------
+INFO 14.02.2021, 18:19:31  typora version: 0.9.98
+DEBUG 14.02.2021, 18:19:31  [
+  '/usr/share/typora/Typora',
+  '/home/mm/GitHub/mm-arch-gnome-settings/arch-install-step-by-step.md'
+]
+DEBUG 14.02.2021, 18:19:31  app.openFile
+INFO 14.02.2021, 18:19:31  addRecentDocument
+INFO 14.02.2021, 18:19:31  [Raven] instanceKey = fb5f11bd-9425-4798-be74-7f762d6b925d
+INFO 14.02.2021, 18:19:31  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 14.02.2021, 18:19:32  [focus] 1
+INFO 14.02.2021, 18:19:34  handle document.loadInitData
+INFO 14.02.2021, 18:21:56  [blur] 1
+INFO 14.02.2021, 18:22:49  [focus] 1
+INFO 14.02.2021, 18:23:18  [blur] 1
+INFO 14.02.2021, 18:23:19  [focus] 1
+INFO 14.02.2021, 18:23:47  [blur] 1
+INFO 14.02.2021, 18:23:48  [focus] 1
+INFO 14.02.2021, 18:23:50  [blur] 1
+INFO 14.02.2021, 18:23:58  [focus] 1
+INFO 14.02.2021, 18:24:15  [blur] 1
+INFO 14.02.2021, 18:24:15  [focus] 1
+INFO 14.02.2021, 18:24:17  [blur] 1
+INFO 14.02.2021, 18:24:22  [focus] 1
+INFO 14.02.2021, 18:25:20  [blur] 1
+INFO 14.02.2021, 18:25:23  [focus] 1
+INFO 14.02.2021, 18:25:26  [blur] 1
+INFO 14.02.2021, 18:25:27  [focus] 1
+INFO 14.02.2021, 18:26:05  [blur] 1
+INFO 14.02.2021, 18:26:13  [focus] 1
+INFO 14.02.2021, 18:26:32  [blur] 1
+INFO 14.02.2021, 18:26:33  [focus] 1
+INFO 14.02.2021, 18:26:34  [blur] 1
+INFO 14.02.2021, 18:26:38  [focus] 1
+INFO 14.02.2021, 18:26:49  [blur] 1
+INFO 14.02.2021, 18:26:50  [focus] 1
+INFO 14.02.2021, 18:27:13  [blur] 1
+INFO 14.02.2021, 18:27:26  [focus] 1
+INFO 14.02.2021, 18:30:03  [blur] 1
+INFO 14.02.2021, 18:30:11  [focus] 1
+INFO 14.02.2021, 18:30:24  [blur] 1
+INFO 14.02.2021, 18:30:29  [focus] 1
+INFO 14.02.2021, 18:30:50  [blur] 1
+INFO 14.02.2021, 18:30:57  [focus] 1
+INFO 14.02.2021, 18:31:14  [blur] 1
+INFO 14.02.2021, 18:31:34  [focus] 1
+INFO 14.02.2021, 18:31:53  [blur] 1
+INFO 14.02.2021, 18:31:54  [focus] 1
+INFO 14.02.2021, 18:31:55  [blur] 1
+INFO 14.02.2021, 18:32:03  [focus] 1
+INFO 14.02.2021, 18:32:17  [blur] 1
+INFO 14.02.2021, 18:32:18  [focus] 1
+INFO 14.02.2021, 18:32:19  [blur] 1
+INFO 14.02.2021, 18:32:31  [focus] 1
+INFO 14.02.2021, 18:33:02  [blur] 1
+INFO 14.02.2021, 18:33:03  [focus] 1
+INFO 14.02.2021, 18:33:04  [blur] 1
+INFO 14.02.2021, 18:33:19  [focus] 1
+INFO 14.02.2021, 18:34:42  [blur] 1
+INFO 14.02.2021, 18:34:50  [focus] 1
+INFO 14.02.2021, 18:36:16  [blur] 1
+INFO 14.02.2021, 18:36:25  [focus] 1
+INFO 14.02.2021, 18:36:46  [blur] 1
+INFO 14.02.2021, 18:37:15  [focus] 1
+INFO 14.02.2021, 18:41:47  [blur] 1
+INFO 14.02.2021, 18:41:48  [focus] 1
+INFO 14.02.2021, 18:41:50  [blur] 1
+INFO 14.02.2021, 18:41:53  [focus] 1
+INFO 14.02.2021, 18:42:20  [blur] 1
+INFO 14.02.2021, 18:42:28  [focus] 1
+INFO 14.02.2021, 18:42:46  [blur] 1
+INFO 14.02.2021, 18:43:02  [focus] 1
+INFO 14.02.2021, 18:43:44  [blur] 1
+INFO 14.02.2021, 18:43:48  [focus] 1
+INFO 14.02.2021, 18:44:39  [blur] 1
+INFO 14.02.2021, 18:44:42  [focus] 1
+INFO 14.02.2021, 18:46:59  [RenderProcess 1][Warn] cannot jumpIntoElemBegin to empty elem
+INFO 14.02.2021, 18:47:55  ----------------before-quit-----------------
+INFO 14.02.2021, 18:47:55  ------------------will-quit------------------
+INFO 14.02.2021, 18:48:28  ------------------start------------------
+INFO 14.02.2021, 18:48:28  typora version: 0.9.98
+DEBUG 14.02.2021, 18:48:28  [
+  '/usr/share/typora/Typora',
+  '/home/mm/GitHub/mm-arch-gnome-settings/README.md'
+]
+DEBUG 14.02.2021, 18:48:28  app.openFile
+INFO 14.02.2021, 18:48:28  addRecentDocument
+INFO 14.02.2021, 18:48:29  [Raven] instanceKey = cdd4edc2-0a81-4cdc-8756-c9141f2172b5
+INFO 14.02.2021, 18:48:29  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 14.02.2021, 18:48:29  [focus] 1
+INFO 14.02.2021, 18:48:30  handle document.loadInitData
+INFO 14.02.2021, 18:49:40  [blur] 1
+INFO 14.02.2021, 18:49:42  [focus] 1
+INFO 14.02.2021, 18:49:43  [blur] 1
+INFO 14.02.2021, 18:49:51  [focus] 1
+INFO 14.02.2021, 19:08:18  [blur] 1
+INFO 14.02.2021, 19:22:34  [focus] 1
+INFO 14.02.2021, 19:22:43  [blur] 1
+INFO 14.02.2021, 19:22:55  [focus] 1
+INFO 14.02.2021, 19:23:05  [blur] 1
+INFO 14.02.2021, 19:23:18  [focus] 1
+INFO 14.02.2021, 19:23:20  ----------------before-quit-----------------
+INFO 14.02.2021, 19:23:20  ------------------will-quit------------------
+INFO 14.02.2021, 19:24:45  ------------------start------------------
+INFO 14.02.2021, 19:24:45  typora version: 0.9.98
+DEBUG 14.02.2021, 19:24:45  [
+  '/usr/share/typora/Typora',
+  '/home/mm/GitHub/mm-arch-gnome-settings/README.md'
+]
+DEBUG 14.02.2021, 19:24:45  app.openFile
+INFO 14.02.2021, 19:24:45  addRecentDocument
+INFO 14.02.2021, 19:24:45  [Raven] instanceKey = a87e0a28-46e8-4040-808c-07be4232bf17
+INFO 14.02.2021, 19:24:45  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 14.02.2021, 19:24:45  [focus] 1
+INFO 14.02.2021, 19:24:47  handle document.loadInitData
+INFO 14.02.2021, 19:26:43  ----------------before-quit-----------------
+INFO 14.02.2021, 19:26:43  ------------------will-quit------------------
+INFO 14.02.2021, 19:32:54  ------------------start------------------
+INFO 14.02.2021, 19:32:54  typora version: 0.9.98
+DEBUG 14.02.2021, 19:32:54  [
+  '/usr/share/typora/Typora',
+  '/home/mm/GitHub/mm-arch-gnome-settings/README.md'
+]
+DEBUG 14.02.2021, 19:32:54  app.openFile
+INFO 14.02.2021, 19:32:54  addRecentDocument
+INFO 14.02.2021, 19:32:55  [Raven] instanceKey = 32b219eb-9441-4eae-9095-476c344c3333
+INFO 14.02.2021, 19:32:55  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 14.02.2021, 19:32:55  [focus] 1
+INFO 14.02.2021, 19:32:57  handle document.loadInitData
+INFO 14.02.2021, 19:33:26  ----------------before-quit-----------------
+INFO 14.02.2021, 19:33:26  ------------------will-quit------------------
+INFO 14.02.2021, 21:21:43  ------------------start------------------
+INFO 14.02.2021, 21:21:44  typora version: 0.9.98
+DEBUG 14.02.2021, 21:21:44  [
+  '/usr/share/typora/Typora',
+  '/home/mm/GitHub/mm-arch-gnome-settings-roboczy/XFCE-themes.md'
+]
+DEBUG 14.02.2021, 21:21:44  app.openFile
+INFO 14.02.2021, 21:21:44  addRecentDocument
+INFO 14.02.2021, 21:21:44  [Raven] instanceKey = c8814348-519e-45d3-ae16-b567b32e3fdb
+INFO 14.02.2021, 21:21:44  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 14.02.2021, 21:21:44  [focus] 1
+INFO 14.02.2021, 21:21:47  handle document.loadInitData
+INFO 14.02.2021, 21:22:06  [blur] 1
+INFO 14.02.2021, 21:22:31  [focus] 1
+INFO 14.02.2021, 21:22:36  ----------------before-quit-----------------
+INFO 14.02.2021, 21:22:36  ------------------will-quit------------------
+INFO 14.02.2021, 21:39:37  ------------------start------------------
+INFO 14.02.2021, 21:39:37  typora version: 0.9.98
+DEBUG 14.02.2021, 21:39:37  [
+  '/usr/share/typora/Typora',
+  '/home/mm/GitHub/mm-arch-gnome-settings/README.md'
+]
+DEBUG 14.02.2021, 21:39:37  app.openFile
+INFO 14.02.2021, 21:39:37  addRecentDocument
+INFO 14.02.2021, 21:39:37  [Raven] instanceKey = 070ac37e-c2e2-4b89-82df-cdbe4f748098
+INFO 14.02.2021, 21:39:37  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 14.02.2021, 21:39:37  [focus] 1
+INFO 14.02.2021, 21:39:39  handle document.loadInitData
+INFO 14.02.2021, 21:39:40  [blur] 1
+INFO 14.02.2021, 21:39:53  [focus] 1
+INFO 14.02.2021, 21:40:02  [blur] 1
+INFO 14.02.2021, 21:40:20  [focus] 1
+INFO 14.02.2021, 21:40:23  [blur] 1
+INFO 14.02.2021, 21:40:42  [focus] 1
+INFO 14.02.2021, 21:40:45  [blur] 1
+INFO 14.02.2021, 21:40:57  [focus] 1
+INFO 14.02.2021, 21:40:58  [blur] 1
+INFO 14.02.2021, 21:41:01  [focus] 1
+INFO 14.02.2021, 21:41:02  [blur] 1
+INFO 14.02.2021, 21:43:28  [focus] 1
+INFO 14.02.2021, 21:43:35  [blur] 1
+INFO 14.02.2021, 21:43:38  got argv [typora /home/mm/GitHub/mm-arch-gnome-settings/arch-install-step-by-step.md] from secondary instance
+DEBUG 14.02.2021, 21:43:38  app.openFile
+INFO 14.02.2021, 21:43:38  addRecentDocument
+INFO 14.02.2021, 21:43:39  [focus] 2
+INFO 14.02.2021, 21:43:38  secondary instance would exit
+INFO 14.02.2021, 21:43:40  handle document.loadInitData
+INFO 14.02.2021, 21:44:15  got argv [typora /home/mm/GitHub/mm-arch-gnome-settings-roboczy/GNOME-themes.md] from secondary instance
+DEBUG 14.02.2021, 21:44:15  app.openFile
+INFO 14.02.2021, 21:44:15  addRecentDocument
+INFO 14.02.2021, 21:44:16  [focus] 3
+INFO 14.02.2021, 21:44:16  secondary instance would exit
+INFO 14.02.2021, 21:44:17  handle document.loadInitData
+INFO 14.02.2021, 21:45:25  [blur] 3
+INFO 14.02.2021, 21:45:31  [focus] 3
+INFO 14.02.2021, 21:45:57  [blur] 3
+INFO 14.02.2021, 21:45:58  [focus] 3
+INFO 14.02.2021, 21:46:04  [blur] 3
+INFO 14.02.2021, 21:46:06  [focus] 3
+INFO 14.02.2021, 21:46:16  [blur] 3
+INFO 14.02.2021, 21:46:17  [focus] 3
+INFO 14.02.2021, 21:46:25  [blur] 3
+INFO 14.02.2021, 21:46:26  [focus] 3
+INFO 14.02.2021, 21:46:29  [blur] 3
+INFO 14.02.2021, 21:46:30  [focus] 3
+INFO 14.02.2021, 21:46:59  [blur] 3
+INFO 14.02.2021, 21:47:01  [focus] 3
+INFO 14.02.2021, 21:47:17  [blur] 3
+INFO 14.02.2021, 21:47:18  [focus] 3
+INFO 14.02.2021, 21:47:19  [blur] 3
+INFO 14.02.2021, 21:47:20  [focus] 3
+INFO 14.02.2021, 21:47:36  [blur] 3
+INFO 14.02.2021, 21:47:39  [focus] 3
+INFO 14.02.2021, 21:47:48  [blur] 3
+INFO 14.02.2021, 21:47:55  [focus] 3
+INFO 14.02.2021, 21:48:02  [blur] 3
+INFO 14.02.2021, 21:48:03  [focus] 3
+INFO 14.02.2021, 21:48:17  [blur] 3
+INFO 14.02.2021, 21:48:25  [focus] 3
+INFO 14.02.2021, 21:48:35  [blur] 3
+INFO 14.02.2021, 21:48:36  [focus] 3
+INFO 14.02.2021, 21:48:42  [blur] 3
+INFO 14.02.2021, 21:48:46  [focus] 3
+INFO 14.02.2021, 21:48:56  [blur] 3
+INFO 14.02.2021, 21:49:06  [focus] 3
+INFO 14.02.2021, 21:49:19  [blur] 3
+INFO 14.02.2021, 21:49:20  [focus] 3
+INFO 14.02.2021, 21:49:32  [blur] 3
+INFO 14.02.2021, 21:49:39  [focus] 3
+INFO 14.02.2021, 21:49:44  [blur] 3
+INFO 14.02.2021, 21:49:45  [focus] 3
+INFO 14.02.2021, 21:49:53  [blur] 3
+INFO 14.02.2021, 21:49:55  [focus] 3
+INFO 14.02.2021, 21:50:11  [blur] 3
+INFO 14.02.2021, 21:50:12  [focus] 3
+INFO 14.02.2021, 21:50:17  [blur] 3
+INFO 14.02.2021, 21:50:18  [focus] 3
+INFO 14.02.2021, 21:50:25  [blur] 3
+INFO 14.02.2021, 21:50:29  [focus] 3
+INFO 14.02.2021, 21:51:00  [blur] 3
+INFO 14.02.2021, 21:51:01  [focus] 3
+INFO 14.02.2021, 21:51:28  [blur] 3
+INFO 14.02.2021, 21:51:30  [focus] 3
+INFO 14.02.2021, 21:51:39  [blur] 3
+INFO 14.02.2021, 21:51:41  [focus] 3
+INFO 14.02.2021, 21:51:50  [blur] 3
+INFO 14.02.2021, 21:51:52  [focus] 3
+INFO 14.02.2021, 21:52:00  [blur] 3
+INFO 14.02.2021, 21:52:06  [focus] 3
+INFO 14.02.2021, 21:52:54  [focus] 1
+INFO 14.02.2021, 21:53:08  ----------------before-quit-----------------
+INFO 14.02.2021, 21:53:08  ------------------will-quit------------------
+INFO 15.02.2021, 16:43:35  ------------------start------------------
+INFO 15.02.2021, 16:43:35  typora version: 0.9.98
+DEBUG 15.02.2021, 16:43:35  [
+  '/usr/share/typora/Typora',
+  '/home/mm/GitHub/mm-arch-gnome-settings-roboczy/GNOME-themes.md'
+]
+DEBUG 15.02.2021, 16:43:35  app.openFile
+INFO 15.02.2021, 16:43:35  addRecentDocument
+INFO 15.02.2021, 16:43:36  [Raven] instanceKey = 50b1ac57-61e1-47de-a11f-7c9ed89408ac
+INFO 15.02.2021, 16:43:36  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 15.02.2021, 16:43:36  [focus] 1
+INFO 15.02.2021, 16:43:37  [blur] 1
+INFO 15.02.2021, 16:43:40  [focus] 1
+INFO 15.02.2021, 16:43:40  handle document.loadInitData
+INFO 15.02.2021, 16:43:41  [blur] 1
+INFO 15.02.2021, 16:43:47  [focus] 1
+INFO 15.02.2021, 16:44:05  [blur] 1
+INFO 15.02.2021, 16:44:07  [focus] 1
+INFO 15.02.2021, 16:44:27  [blur] 1
+INFO 15.02.2021, 16:44:27  [focus] 1
+INFO 15.02.2021, 16:44:35  [blur] 1
+INFO 15.02.2021, 16:44:36  [focus] 1
+INFO 15.02.2021, 16:44:42  [blur] 1
+INFO 15.02.2021, 16:44:43  [focus] 1
+INFO 15.02.2021, 16:44:53  [blur] 1
+INFO 15.02.2021, 16:44:54  [focus] 1
+INFO 15.02.2021, 16:44:56  [blur] 1
+INFO 15.02.2021, 16:45:13  [focus] 1
+INFO 15.02.2021, 16:47:53  [blur] 1
+INFO 15.02.2021, 16:47:53  [focus] 1
+INFO 15.02.2021, 16:47:56  [blur] 1
+INFO 15.02.2021, 16:48:17  [focus] 1
+INFO 15.02.2021, 16:48:37  [blur] 1
+INFO 15.02.2021, 16:48:39  [focus] 1
+INFO 15.02.2021, 16:48:50  [blur] 1
+INFO 15.02.2021, 16:48:51  [focus] 1
+INFO 15.02.2021, 16:49:34  [blur] 1
+INFO 15.02.2021, 16:49:35  [focus] 1
+INFO 15.02.2021, 16:49:46  [blur] 1
+INFO 15.02.2021, 16:50:05  [focus] 1
+INFO 15.02.2021, 16:50:14  [blur] 1
+INFO 15.02.2021, 16:51:08  [focus] 1
+INFO 15.02.2021, 16:52:37  [blur] 1
+INFO 15.02.2021, 16:52:37  [focus] 1
+INFO 15.02.2021, 16:52:58  [blur] 1
+INFO 15.02.2021, 16:53:23  [focus] 1
+INFO 15.02.2021, 16:53:33  [blur] 1
+INFO 15.02.2021, 16:53:34  [focus] 1
+INFO 15.02.2021, 16:53:41  [blur] 1
+INFO 15.02.2021, 16:53:43  [focus] 1
+INFO 15.02.2021, 16:53:46  [blur] 1
+INFO 15.02.2021, 16:54:05  [focus] 1
+INFO 15.02.2021, 16:54:17  [blur] 1
+INFO 15.02.2021, 16:54:17  [focus] 1
+INFO 15.02.2021, 16:54:21  [blur] 1
+INFO 15.02.2021, 16:54:34  [focus] 1
+INFO 15.02.2021, 16:54:43  [blur] 1
+INFO 15.02.2021, 16:54:45  [focus] 1
+INFO 15.02.2021, 16:54:57  [blur] 1
+INFO 15.02.2021, 16:55:04  [focus] 1
+INFO 15.02.2021, 16:55:10  [blur] 1
+INFO 15.02.2021, 16:55:11  [focus] 1
+INFO 15.02.2021, 16:55:28  [blur] 1
+INFO 15.02.2021, 16:55:29  [focus] 1
+INFO 15.02.2021, 16:55:44  [blur] 1
+INFO 15.02.2021, 16:55:46  [focus] 1
+INFO 15.02.2021, 16:55:53  [blur] 1
+INFO 15.02.2021, 16:55:55  [focus] 1
+INFO 15.02.2021, 16:56:02  [blur] 1
+INFO 15.02.2021, 16:56:11  [focus] 1
+INFO 15.02.2021, 16:56:21  [blur] 1
+INFO 15.02.2021, 16:56:22  [focus] 1
+INFO 15.02.2021, 16:56:32  [blur] 1
+INFO 15.02.2021, 16:56:39  [focus] 1
+INFO 15.02.2021, 16:56:49  ----------------before-quit-----------------
+INFO 15.02.2021, 16:56:49  ------------------will-quit------------------
+INFO 15.02.2021, 22:12:07  ------------------start------------------
+INFO 15.02.2021, 22:12:07  typora version: 0.9.98
+DEBUG 15.02.2021, 22:12:07  [
+  '/usr/share/typora/Typora',
+  '/home/mm/GitHub/mm-arch-gnome-settings/GNOME-themes.md'
+]
+DEBUG 15.02.2021, 22:12:07  app.openFile
+INFO 15.02.2021, 22:12:07  addRecentDocument
+INFO 15.02.2021, 22:12:07  [Raven] instanceKey = 9a127aea-1905-4f18-b7a9-9d54caa05826
+INFO 15.02.2021, 22:12:07  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 15.02.2021, 22:12:07  [focus] 1
+INFO 15.02.2021, 22:12:08  got argv [typora /home/mm/GitHub/mm-arch-gnome-settings/GNOME-themes.md] from secondary instance
+DEBUG 15.02.2021, 22:12:08  app.openFile
+INFO 15.02.2021, 22:12:08  secondary instance would exit
+INFO 15.02.2021, 22:12:10  handle document.loadInitData
+INFO 15.02.2021, 22:13:54  [blur] 1
+INFO 15.02.2021, 22:14:04  [focus] 1
+INFO 15.02.2021, 22:15:18  [blur] 1
+INFO 15.02.2021, 22:15:20  [focus] 1
+INFO 15.02.2021, 22:15:21  [blur] 1
+INFO 15.02.2021, 22:15:24  [focus] 1
+INFO 15.02.2021, 22:15:31  [blur] 1
+INFO 15.02.2021, 22:15:43  [focus] 1
+INFO 15.02.2021, 22:16:31  [blur] 1
+INFO 15.02.2021, 22:24:21  [focus] 1
+INFO 15.02.2021, 22:24:28  [blur] 1
+INFO 15.02.2021, 22:24:31  [focus] 1
+INFO 15.02.2021, 22:24:34  [blur] 1
+INFO 15.02.2021, 22:24:48  [focus] 1
+INFO 15.02.2021, 22:25:23  [blur] 1
+INFO 15.02.2021, 22:25:24  [focus] 1
+INFO 15.02.2021, 22:25:31  [blur] 1
+INFO 15.02.2021, 22:25:33  [focus] 1
+INFO 15.02.2021, 22:25:38  [blur] 1
+INFO 15.02.2021, 22:25:39  [focus] 1
+INFO 15.02.2021, 22:25:48  [blur] 1
+INFO 15.02.2021, 22:25:49  [focus] 1
+INFO 15.02.2021, 22:25:54  [blur] 1
+INFO 15.02.2021, 22:26:22  [focus] 1
+INFO 15.02.2021, 22:26:40  [blur] 1
+INFO 15.02.2021, 22:26:54  [focus] 1
+INFO 15.02.2021, 22:27:20  [blur] 1
+INFO 15.02.2021, 22:27:22  [focus] 1
+INFO 15.02.2021, 22:27:26  [blur] 1
+INFO 15.02.2021, 22:27:56  [focus] 1
+INFO 15.02.2021, 22:27:57  [blur] 1
+INFO 15.02.2021, 22:29:05  [focus] 1
+INFO 15.02.2021, 22:29:44  [blur] 1
+INFO 15.02.2021, 22:29:54  [focus] 1
+INFO 15.02.2021, 22:30:54  [blur] 1
+INFO 15.02.2021, 22:31:12  [focus] 1
+INFO 15.02.2021, 22:33:04  [blur] 1
+INFO 15.02.2021, 22:47:04  [focus] 1
+INFO 15.02.2021, 22:47:19  ----------------before-quit-----------------
+INFO 15.02.2021, 22:47:19  ------------------will-quit------------------
+INFO 16.02.2021, 17:49:26  ------------------start------------------
+INFO 16.02.2021, 17:49:26  typora version: 0.9.98
+DEBUG 16.02.2021, 17:49:26  [
+  '/usr/share/typora/Typora',
+  '/home/mm/GitHub/mm-arch-gnome-settings/README.md'
+]
+DEBUG 16.02.2021, 17:49:26  app.openFile
+INFO 16.02.2021, 17:49:26  addRecentDocument
+INFO 16.02.2021, 17:49:26  [Raven] instanceKey = 70e96d67-073e-488a-90b6-55a88bf23807
+INFO 16.02.2021, 17:49:26  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 16.02.2021, 17:49:26  [focus] 1
+INFO 16.02.2021, 17:49:29  handle document.loadInitData
+INFO 16.02.2021, 17:49:37  ----------------before-quit-----------------
+INFO 16.02.2021, 17:49:37  ------------------will-quit------------------
+INFO 16.02.2021, 17:49:42  ------------------start------------------
+INFO 16.02.2021, 17:49:42  typora version: 0.9.98
+DEBUG 16.02.2021, 17:49:42  [
+  '/usr/share/typora/Typora',
+  '/home/mm/GitHub/mm-arch-gnome-settings/GNOME-themes.md'
+]
+DEBUG 16.02.2021, 17:49:43  app.openFile
+INFO 16.02.2021, 17:49:43  addRecentDocument
+INFO 16.02.2021, 17:49:43  [Raven] instanceKey = 7ff79d11-f03a-4444-be1f-866c18e08342
+INFO 16.02.2021, 17:49:43  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 16.02.2021, 17:49:43  [focus] 1
+INFO 16.02.2021, 17:49:45  handle document.loadInitData
+INFO 16.02.2021, 17:51:01  ----------------before-quit-----------------
+INFO 16.02.2021, 17:51:01  ------------------will-quit------------------
+INFO 17.02.2021, 19:12:46  ------------------start------------------
+INFO 17.02.2021, 19:12:46  typora version: 0.9.98
+DEBUG 17.02.2021, 19:12:46  [
+  '/usr/share/typora/Typora',
+  '/home/mm/GitHub/mm-arch-gnome-settings/arch-install-step-by-step.md'
+]
+DEBUG 17.02.2021, 19:12:46  app.openFile
+INFO 17.02.2021, 19:12:46  addRecentDocument
+INFO 17.02.2021, 19:12:46  [Raven] instanceKey = aa683f83-0dc2-4810-837e-c5bfce0ee881
+INFO 17.02.2021, 19:12:46  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 17.02.2021, 19:12:46  [focus] 1
+INFO 17.02.2021, 19:12:48  handle document.loadInitData
+INFO 17.02.2021, 19:13:04  [blur] 1
+INFO 17.02.2021, 19:13:08  [focus] 1
+INFO 17.02.2021, 19:13:12  [blur] 1
+INFO 17.02.2021, 19:13:33  [focus] 1
+INFO 17.02.2021, 19:13:36  [blur] 1
+INFO 17.02.2021, 19:13:54  [focus] 1
+INFO 17.02.2021, 19:14:39  [blur] 1
+INFO 17.02.2021, 19:15:32  [focus] 1
+INFO 17.02.2021, 19:15:34  [blur] 1
+INFO 17.02.2021, 19:17:26  [focus] 1
+INFO 17.02.2021, 19:17:26  [blur] 1
+INFO 17.02.2021, 19:17:30  [focus] 1
+INFO 17.02.2021, 19:18:01  ----------------before-quit-----------------
+INFO 17.02.2021, 19:18:01  ------------------will-quit------------------
+INFO 17.02.2021, 20:31:40  ------------------start------------------
+INFO 17.02.2021, 20:31:40  typora version: 0.9.98
+DEBUG 17.02.2021, 20:31:40  [
+  '/usr/share/typora/Typora',
+  '/home/mm/GitHub/mm-arch-gnome-settings/GNOME-themes.md'
+]
+DEBUG 17.02.2021, 20:31:40  app.openFile
+INFO 17.02.2021, 20:31:40  addRecentDocument
+INFO 17.02.2021, 20:31:40  [Raven] instanceKey = d7c15d4b-d113-4de7-8c51-0bb086aeb54c
+INFO 17.02.2021, 20:31:40  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 17.02.2021, 20:31:40  [focus] 1
+INFO 17.02.2021, 20:31:43  handle document.loadInitData
+INFO 17.02.2021, 20:31:58  ----------------before-quit-----------------
+INFO 17.02.2021, 20:31:58  ------------------will-quit------------------
+INFO 18.02.2021, 19:37:11  ------------------start------------------
+INFO 18.02.2021, 19:37:11  typora version: 0.9.98
+DEBUG 18.02.2021, 19:37:11  [
+  '/usr/share/typora/Typora',
+  '/home/mm/GitHub/flat-remix-gnome/README.md'
+]
+DEBUG 18.02.2021, 19:37:11  app.openFile
+INFO 18.02.2021, 19:37:11  addRecentDocument
+INFO 18.02.2021, 19:37:12  [Raven] instanceKey = b7776ae7-8ee5-43e7-ad48-05c6864487b3
+INFO 18.02.2021, 19:37:12  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 18.02.2021, 19:37:12  [focus] 1
+INFO 18.02.2021, 19:37:15  handle document.loadInitData
+INFO 18.02.2021, 19:37:25  ----------------before-quit-----------------
+INFO 18.02.2021, 19:37:25  ------------------will-quit------------------
+INFO 19.02.2021, 15:27:15  ------------------start------------------
+INFO 19.02.2021, 15:27:15  typora version: 0.9.98
+DEBUG 19.02.2021, 15:27:15  [
+  '/usr/share/typora/Typora',
+  '/home/mm/GitHub/mm-arch-gnome-settings/arch-install-step-by-step.md'
+]
+DEBUG 19.02.2021, 15:27:15  app.openFile
+INFO 19.02.2021, 15:27:15  addRecentDocument
+INFO 19.02.2021, 15:27:16  [Raven] instanceKey = 1447e99a-858e-43e5-b1b4-f0846202f3d3
+INFO 19.02.2021, 15:27:16  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 19.02.2021, 15:27:16  [focus] 1
+INFO 19.02.2021, 15:27:18  handle document.loadInitData
+INFO 19.02.2021, 15:28:21  ----------------before-quit-----------------
+INFO 19.02.2021, 15:28:21  ------------------will-quit------------------
+INFO 19.02.2021, 19:48:21  ------------------start------------------
+INFO 19.02.2021, 19:48:21  typora version: 0.9.98
+DEBUG 19.02.2021, 19:48:21  [
+  '/usr/share/typora/Typora',
+  '/home/mm/GitHub/mm-arch-gnome-settings/GNOME-themes.md'
+]
+DEBUG 19.02.2021, 19:48:22  app.openFile
+INFO 19.02.2021, 19:48:22  addRecentDocument
+INFO 19.02.2021, 19:48:22  [Raven] instanceKey = 633e54a9-d257-4604-b1b8-e64c3e1b4b40
+INFO 19.02.2021, 19:48:22  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 19.02.2021, 19:48:22  [focus] 1
+INFO 19.02.2021, 19:48:24  handle document.loadInitData
+INFO 19.02.2021, 19:50:28  [blur] 1
+INFO 19.02.2021, 19:50:47  [focus] 1
+INFO 19.02.2021, 19:51:25  ----------------before-quit-----------------
+INFO 19.02.2021, 19:51:25  ------------------will-quit------------------
+INFO 20.02.2021, 13:30:51  ------------------start------------------
+INFO 20.02.2021, 13:30:51  typora version: 0.9.98
+DEBUG 20.02.2021, 13:30:51  [ '/usr/share/typora/Typora', '/home/mm/GitHub/fire/README.md' ]
+DEBUG 20.02.2021, 13:30:51  app.openFile
+INFO 20.02.2021, 13:30:51  addRecentDocument
+INFO 20.02.2021, 13:30:52  [Raven] instanceKey = e5af3c91-9e85-46a4-900e-cb5a7aabc382
+INFO 20.02.2021, 13:30:52  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 20.02.2021, 13:30:52  [focus] 1
+INFO 20.02.2021, 13:30:54  handle document.loadInitData
+INFO 20.02.2021, 13:31:23  [blur] 1
+INFO 20.02.2021, 13:34:44  [focus] 1
+INFO 20.02.2021, 13:34:46  [blur] 1
+INFO 20.02.2021, 13:57:55  ----------------before-quit-----------------
+INFO 20.02.2021, 13:57:55  ------------------will-quit------------------
+INFO 20.02.2021, 16:03:25  ------------------start------------------
+INFO 20.02.2021, 16:03:25  typora version: 0.9.98
+DEBUG 20.02.2021, 16:03:25  [ '/usr/share/typora/Typora' ]
+INFO 20.02.2021, 16:03:25  [Raven] instanceKey = 19d5ed8b-868e-4ba3-9ace-64c52c4d874f
+INFO 20.02.2021, 16:03:25  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+DEBUG 20.02.2021, 16:03:26  app.openFile
+INFO 20.02.2021, 16:03:26  [focus] 1
+INFO 20.02.2021, 16:03:29  handle document.loadInitData
+INFO 20.02.2021, 16:04:42  [blur] 1
+INFO 20.02.2021, 16:09:48  [focus] 1
+INFO 20.02.2021, 16:10:54  [blur] 1
+INFO 20.02.2021, 16:11:43  [focus] 1
+INFO 20.02.2021, 16:11:45  [blur] 1
+INFO 20.02.2021, 16:11:56  [focus] 1
+INFO 20.02.2021, 16:11:57  [blur] 1
+INFO 20.02.2021, 16:12:11  [focus] 1
+INFO 20.02.2021, 16:13:43  [blur] 1
+INFO 20.02.2021, 16:13:43  [focus] 1
+INFO 20.02.2021, 16:13:45  [blur] 1
+INFO 20.02.2021, 16:15:32  [focus] 1
+INFO 20.02.2021, 16:15:34  [blur] 1
+INFO 20.02.2021, 16:15:50  [focus] 1
+INFO 20.02.2021, 16:15:51  [blur] 1
+INFO 20.02.2021, 16:22:17  [focus] 1
+INFO 20.02.2021, 16:22:23  [blur] 1
+INFO 20.02.2021, 16:23:22  [focus] 1
+INFO 20.02.2021, 16:23:25  [blur] 1
+INFO 20.02.2021, 16:30:05  [focus] 1
+INFO 20.02.2021, 16:30:15  [blur] 1
+INFO 20.02.2021, 16:30:22  [focus] 1
+INFO 20.02.2021, 16:30:22  addRecentDocument
+INFO 20.02.2021, 16:30:23  ----------------before-quit-----------------
+INFO 20.02.2021, 16:30:23  ------------------will-quit------------------
+INFO 20.02.2021, 19:31:43  ------------------start------------------
+INFO 20.02.2021, 19:31:43  typora version: 0.9.98
+DEBUG 20.02.2021, 19:31:43  [ '/usr/share/typora/Typora', '/home/mm/GitHub/Fenix.md' ]
+DEBUG 20.02.2021, 19:31:43  app.openFile
+INFO 20.02.2021, 19:31:43  addRecentDocument
+INFO 20.02.2021, 19:31:44  [Raven] instanceKey = 98a0385b-a0db-4257-81db-902e045f0a34
+INFO 20.02.2021, 19:31:44  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 20.02.2021, 19:31:44  [focus] 1
+INFO 20.02.2021, 19:31:47  handle document.loadInitData
+INFO 20.02.2021, 19:31:47  [blur] 1
+INFO 20.02.2021, 19:31:47  [focus] 1
+INFO 20.02.2021, 19:31:49  [blur] 1
+INFO 20.02.2021, 19:31:53  [focus] 1
+INFO 20.02.2021, 19:35:50  [blur] 1
+INFO 20.02.2021, 19:36:32  [focus] 1
+INFO 20.02.2021, 19:36:33  [blur] 1
+INFO 20.02.2021, 19:42:44  [focus] 1
+INFO 20.02.2021, 19:45:11  [blur] 1
+INFO 20.02.2021, 19:45:38  [focus] 1
+INFO 20.02.2021, 19:46:37  [blur] 1
+INFO 20.02.2021, 19:47:08  [focus] 1
+INFO 20.02.2021, 19:47:54  [blur] 1
+INFO 20.02.2021, 19:48:13  [focus] 1
+INFO 20.02.2021, 19:49:15  ----------------before-quit-----------------
+INFO 20.02.2021, 19:49:15  ------------------will-quit------------------
+INFO 20.02.2021, 20:01:57  ------------------start------------------
+INFO 20.02.2021, 20:01:57  typora version: 0.9.98
+DEBUG 20.02.2021, 20:01:58  [ '/usr/share/typora/Typora', '/home/mm/GitHub/Fenix.md' ]
+DEBUG 20.02.2021, 20:01:58  app.openFile
+INFO 20.02.2021, 20:01:58  addRecentDocument
+INFO 20.02.2021, 20:01:58  [Raven] instanceKey = 8bd2a5a3-714c-493a-9ad2-bba09af540fa
+INFO 20.02.2021, 20:01:58  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 20.02.2021, 20:01:58  [focus] 1
+INFO 20.02.2021, 20:02:01  handle document.loadInitData
+INFO 20.02.2021, 20:08:14  ----------------before-quit-----------------
+INFO 20.02.2021, 20:08:14  ------------------will-quit------------------
+INFO 22.02.2021, 17:26:19  ------------------start------------------
+INFO 22.02.2021, 17:26:19  typora version: 0.9.98
+DEBUG 22.02.2021, 17:26:19  [
+  '/usr/share/typora/Typora',
+  '/home/mm/GitHub/mm-arch-gnome-settings/GNOME-themes.md'
+]
+DEBUG 22.02.2021, 17:26:19  app.openFile
+INFO 22.02.2021, 17:26:19  addRecentDocument
+INFO 22.02.2021, 17:26:19  [Raven] instanceKey = 9ec72b92-deb7-46dd-b17c-5b6a8287eeca
+INFO 22.02.2021, 17:26:19  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 22.02.2021, 17:26:19  [focus] 1
+INFO 22.02.2021, 17:26:22  handle document.loadInitData
+INFO 22.02.2021, 17:26:46  ----------------before-quit-----------------
+INFO 22.02.2021, 17:26:46  ------------------will-quit------------------
+INFO 22.02.2021, 20:09:14  ------------------start------------------
+INFO 22.02.2021, 20:09:14  typora version: 0.9.98
+DEBUG 22.02.2021, 20:09:14  [
+  '/usr/share/typora/Typora',
+  '/home/mm/GitHub/mm-arch-xfce-settings/README.md'
+]
+DEBUG 22.02.2021, 20:09:14  app.openFile
+INFO 22.02.2021, 20:09:14  addRecentDocument
+INFO 22.02.2021, 20:09:14  [Raven] instanceKey = 2acbd2bd-4d2f-4a38-bac3-37e9a6ffa2a6
+INFO 22.02.2021, 20:09:14  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 22.02.2021, 20:09:15  [focus] 1
+INFO 22.02.2021, 20:09:17  handle document.loadInitData
+INFO 22.02.2021, 20:09:25  ----------------before-quit-----------------
+INFO 22.02.2021, 20:09:25  ------------------will-quit------------------
+INFO 22.02.2021, 20:19:42  ------------------start------------------
+INFO 22.02.2021, 20:19:42  typora version: 0.9.98
+DEBUG 22.02.2021, 20:19:42  [
+  '/usr/share/typora/Typora',
+  '/home/mm/GitHub/mm-arch-gnome-settings/GNOME-themes.md'
+]
+DEBUG 22.02.2021, 20:19:42  app.openFile
+INFO 22.02.2021, 20:19:42  addRecentDocument
+INFO 22.02.2021, 20:19:42  [Raven] instanceKey = f851269b-4992-40d4-bce1-489d87a7dc87
+INFO 22.02.2021, 20:19:42  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 22.02.2021, 20:19:42  [focus] 1
+INFO 22.02.2021, 20:19:44  handle document.loadInitData
+INFO 22.02.2021, 20:20:17  ----------------before-quit-----------------
+INFO 22.02.2021, 20:20:17  ------------------will-quit------------------
+INFO 23.02.2021, 20:53:23  ------------------start------------------
+INFO 23.02.2021, 20:53:23  typora version: 0.9.98
+DEBUG 23.02.2021, 20:53:23  [ '/usr/share/typora/Typora', '/home/mm/GitHub/Fenix.md' ]
+DEBUG 23.02.2021, 20:53:23  app.openFile
+INFO 23.02.2021, 20:53:23  addRecentDocument
+INFO 23.02.2021, 20:53:24  [Raven] instanceKey = cc3f9d81-9e44-4631-aa55-a20b56b3e564
+INFO 23.02.2021, 20:53:24  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 23.02.2021, 20:53:24  [focus] 1
+INFO 23.02.2021, 20:53:26  handle document.loadInitData
+INFO 23.02.2021, 20:53:50  ----------------before-quit-----------------
+INFO 23.02.2021, 20:53:50  ------------------will-quit------------------
+INFO 24.02.2021, 19:57:28  ------------------start------------------
+INFO 24.02.2021, 19:57:28  typora version: 0.9.98
+DEBUG 24.02.2021, 19:57:29  [ '/usr/share/typora/Typora', '/home/mm/GitHub/EALIS/VERSION.md' ]
+DEBUG 24.02.2021, 19:57:29  app.openFile
+INFO 24.02.2021, 19:57:29  addRecentDocument
+INFO 24.02.2021, 19:57:29  [Raven] instanceKey = 86ddc6b6-069c-4584-bbf5-8c96da194d34
+INFO 24.02.2021, 19:57:29  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 24.02.2021, 19:57:29  [focus] 1
+INFO 24.02.2021, 19:57:31  handle document.loadInitData
+INFO 24.02.2021, 19:58:13  [blur] 1
+INFO 24.02.2021, 19:58:15  [focus] 1
+INFO 24.02.2021, 19:58:43  [blur] 1
+INFO 24.02.2021, 19:58:48  [focus] 1
+INFO 24.02.2021, 19:58:50  [blur] 1
+INFO 24.02.2021, 19:58:52  [focus] 1
+INFO 24.02.2021, 19:59:12  [blur] 1
+INFO 24.02.2021, 19:59:14  [focus] 1
+INFO 24.02.2021, 19:59:43  ----------------before-quit-----------------
+INFO 24.02.2021, 19:59:43  ------------------will-quit------------------
+INFO 25.02.2021, 21:28:46  ------------------start------------------
+INFO 25.02.2021, 21:28:47  typora version: 0.9.98
+DEBUG 25.02.2021, 21:28:47  [ '/usr/share/typora/Typora', '/home/mm/GitHub/EALIS/VERSION.md' ]
+DEBUG 25.02.2021, 21:28:47  app.openFile
+INFO 25.02.2021, 21:28:47  addRecentDocument
+INFO 25.02.2021, 21:28:47  [Raven] instanceKey = b24dd68a-9cb5-458c-8e50-da16c2c52552
+INFO 25.02.2021, 21:28:47  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 25.02.2021, 21:28:47  [focus] 1
+INFO 25.02.2021, 21:28:49  handle document.loadInitData
+INFO 25.02.2021, 21:30:44  ----------------before-quit-----------------
+INFO 25.02.2021, 21:30:44  ------------------will-quit------------------
+INFO 25.02.2021, 21:30:55  ------------------start------------------
+INFO 25.02.2021, 21:30:55  typora version: 0.9.98
+DEBUG 25.02.2021, 21:30:55  [ '/usr/share/typora/Typora', '/home/mm/GitHub/EALIS/VERSION.md' ]
+DEBUG 25.02.2021, 21:30:55  app.openFile
+INFO 25.02.2021, 21:30:55  addRecentDocument
+INFO 25.02.2021, 21:30:55  [Raven] instanceKey = 44699429-a505-4b73-b742-90e24c9416ba
+INFO 25.02.2021, 21:30:55  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 25.02.2021, 21:30:55  [focus] 1
+INFO 25.02.2021, 21:30:57  handle document.loadInitData
+INFO 25.02.2021, 21:31:00  ----------------before-quit-----------------
+INFO 25.02.2021, 21:31:00  ------------------will-quit------------------
+INFO 26.02.2021, 17:35:40  ------------------start------------------
+INFO 26.02.2021, 17:35:40  typora version: 0.9.98
+DEBUG 26.02.2021, 17:35:40  [ '/usr/share/typora/Typora', '/home/mm/GitHub/EALIS/VERSION.md' ]
+DEBUG 26.02.2021, 17:35:40  app.openFile
+INFO 26.02.2021, 17:35:40  addRecentDocument
+INFO 26.02.2021, 17:35:40  [Raven] instanceKey = 41d70424-3155-4b77-a258-ff2f1f552edf
+INFO 26.02.2021, 17:35:40  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 26.02.2021, 17:35:40  [focus] 1
+INFO 26.02.2021, 17:35:43  handle document.loadInitData
+INFO 26.02.2021, 17:36:31  ----------------before-quit-----------------
+INFO 26.02.2021, 17:36:31  ------------------will-quit------------------
+INFO 27.02.2021, 19:26:01  ------------------start------------------
+INFO 27.02.2021, 19:26:01  typora version: 0.9.98
+DEBUG 27.02.2021, 19:26:01  [ '/usr/share/typora/Typora', '/home/mm/GitHub/EALIS/VERSION.md' ]
+DEBUG 27.02.2021, 19:26:02  app.openFile
+INFO 27.02.2021, 19:26:02  addRecentDocument
+INFO 27.02.2021, 19:26:02  [Raven] instanceKey = dae1b059-a29c-4953-8bd7-6cd4a729fc80
+INFO 27.02.2021, 19:26:02  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 27.02.2021, 19:26:02  [focus] 1
+INFO 27.02.2021, 19:26:04  handle document.loadInitData
+INFO 27.02.2021, 19:27:08  ----------------before-quit-----------------
+INFO 27.02.2021, 19:27:08  ------------------will-quit------------------
+INFO 27.02.2021, 21:45:11  ------------------start------------------
+INFO 27.02.2021, 21:45:12  typora version: 0.9.98
+DEBUG 27.02.2021, 21:45:12  [ '/usr/share/typora/Typora', '/home/mm/GitHub/Fenix.md' ]
+DEBUG 27.02.2021, 21:45:12  app.openFile
+INFO 27.02.2021, 21:45:12  addRecentDocument
+INFO 27.02.2021, 21:45:12  [Raven] instanceKey = 698f777d-ce7a-429a-893e-61bbf2bdcb35
+INFO 27.02.2021, 21:45:12  [Raven] userId = 3ee6a876-c87b-44fe-879e-d8033c9d92ce
+INFO 27.02.2021, 21:45:12  [focus] 1
+INFO 27.02.2021, 21:45:14  handle document.loadInitData
+INFO 27.02.2021, 21:45:20  ----------------before-quit-----------------
+INFO 27.02.2021, 21:45:20  ------------------will-quit------------------
