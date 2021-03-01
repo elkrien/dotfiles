@@ -1,0 +1,67 @@
+[net/launchpad/plank/docks/dock1]
+alignment='center'
+auto-pinning=true
+current-workspace-only=false
+dock-items=['org.manjaro.pamac.manager.dockitem', 'brave-browser.dockitem', 'firefox.dockitem', 'micro.dockitem', 'org.xfce.Parole-1.dockitem', 'ristretto.dockitem', 'xfce4-file-manager.dockitem', 'kitty.dockitem']
+hide-delay=0
+hide-mode='intelligent'
+icon-size=48
+items-alignment='center'
+lock-items=true
+monitor=''
+offset=0
+pinned-only=false
+position='bottom'
+pressure-reveal=false
+show-dock-item=false
+theme='Dracula'
+tooltips-enabled=true
+unhide-delay=0
+zoom-enabled=true
+zoom-percent=150
+
+[org/bluesabre/mugshot]
+email=''
+fax=''
+initials='M'
+
+[org/gnome/desktop/interface]
+font-name='Roboto 10'
+gtk-theme='Ant-Dracula'
+icon-theme='kora'
+monospace-font-name='Roboto Mono 10'
+
+[org/gnome/nm-applet]
+disable-connected-notifications=true
+
+[org/gtk/settings/file-chooser]
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=159
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'
+window-position=(412, 136)
+window-size=(1096, 822)
+
+[org/xfce/mousepad/preferences/view]
+color-scheme='dracula'
+font-name='Fira Code 10'
+highlight-current-line=true
+show-line-numbers=true
+use-default-monospace-font=false
+word-wrap=true
+
+[org/xfce/mousepad/preferences/window]
+menubar-visible=false
+toolbar-visible=true
+
+[org/xfce/mousepad/state/window]
+fullscreen=false
+height=677
+maximized=false
+width=951
