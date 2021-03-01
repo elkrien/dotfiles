@@ -17,6 +17,7 @@
 	<command>pkexec thunar %f</command>
 	<description>Otwórz folder jako administator</description>
 	<patterns>*</patterns>
+	<directories/>
 </action>
 <action>
 	<icon>meld</icon>
@@ -25,5 +26,11 @@
 	<command>meld %F</command>
 	<description>Porównaj pliki</description>
 	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
 </action>
 </actions>
