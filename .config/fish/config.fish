@@ -7,7 +7,11 @@ end
 
 export MICRO_TRUECOLOR=1
 
-#### ZOXIDE ####
+#### INIT STARSHIP ####
+
+starship init fish | source
+
+#### INIT ZOXIDE ####
 
 zoxide init fish | source
 
@@ -125,10 +129,4 @@ alias df='duf'
 #### FISH AUTOSTART ####
 
 echo; echo; seq 1 (tput cols) | sort -R | spark | lolcat; echo; echo
-
-#### INIT STARSHIP ####
-
-starship init fish | source
-
-
 
