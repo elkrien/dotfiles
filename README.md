@@ -1,6 +1,20 @@
-# Dotfiles
-Configuration files of my system and programs:
-- fish
-- starship
-- kitty
-- gnome dconf
+# DOTFILES
+Configuration files of my system and programs.
+
+#### GENERAL:
+- Fish
+- Starship
+- Kitty
+- Typora
+- Micro
+
+#### GNOME
+- Gnome dconf
+- Gedit
+
+
+#### XFCE
+- Mousepad
+- Plank
+- Rofi
+- 
