@@ -21,4 +21,5 @@ Configuration files of my system and programs.
 - `.config/dconf-xfce` - dconf settings for XFCE4 desktop environment
 - `.config/Thunar` - Thunar (extra content menu)
 - `.config/xfce4` - XFCE4 settings (themes, keybindings, etc.)
-- `.local/share/xfce4-panel-profiles` - XFCE4 panel settings 
+- `.local/share/xfce4-panel-profiles` - XFCE4 panel settings
+- `.config/gtk-3.0` - Thunar bookmarks
