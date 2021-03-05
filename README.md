@@ -17,7 +17,7 @@ Configuration files of my system and programs.
 #### XFCE
 - `.local/share/gtksourceview-3.0` - Mousepad theme (text editor)
 - `.config/plank` - Plank settings
-- `.local/plank` - Plank themes
+- `.local/share/plank` - Plank themes
 - `.config/rofi` - Rofi theme and settings
 - `.config/autostart` - autostart of XFCE4 desktop environment
 - `.config/dconf-xfce` - dconf settings for XFCE4 desktop environment
