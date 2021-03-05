@@ -23,3 +23,4 @@ Configuration files of my system and programs.
 - `.config/xfce4` - XFCE4 settings (themes, keybindings, etc.)
 - `.local/share/xfce4-panel-profiles` - XFCE4 panel settings
 - `.config/gtk-3.0` - Thunar bookmarks
+- `.config/Mousepad` - Mousepad settings
