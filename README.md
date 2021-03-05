@@ -7,6 +7,7 @@ Configuration files of my system and programs.
 - `.config/kitty` - Kitty terminal
 - `.config/Typora` - Typora (markdown editor)
 - `.config/micro` - Micro (terminal-based editor)
+- `.local/share/backgrounds` - starting wallpaper
 
 #### GNOME
 - `.config/dconf-gnome` - dconf settings for Gnome desktop environment
@@ -15,7 +16,8 @@ Configuration files of my system and programs.
 
 #### XFCE
 - `.local/share/gtksourceview-3.0` - Mousepad theme (text editor)
-- `.config/plank` - Plank theme
+- `.config/plank` - Plank settings
+- `.local/plank` - Plank themes
 - `.config/rofi` - Rofi theme and settings
 - `.config/autostart` - autostart of XFCE4 desktop environment
 - `.config/dconf-xfce` - dconf settings for XFCE4 desktop environment
