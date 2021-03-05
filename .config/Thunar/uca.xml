@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Otwórz w terminalu</name>
+	<unique-id>1614897274310141-1</unique-id>
+	<command>exo-open --working-directory %f --launch TerminalEmulator</command>
+	<description>Otwiera terminal w bieżącym położeniu</description>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon>folder-red</icon>
+	<name>Otwórz jako administrator</name>
+	<unique-id>1614963618676383-1</unique-id>
+	<command>pkexec thunar %f</command>
+	<description>Otwórz folder jako administrator</description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon>meld</icon>
+	<name>Porównaj...</name>
+	<unique-id>1614963780114389-2</unique-id>
+	<command>meld %F</command>
+	<description>Porównaj pliki</description>
+	<patterns>*</patterns>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+</actions>
