@@ -17,7 +17,8 @@ zoxide init fish | source
 
 #### "BAT" AS A MANPAGER
 
-set -x MANPAGER "sh -c 'col -bx | bat -l man -p'" 
+set -x MANPAGER "sh -c 'col -bx | bat -l man -p'"
+#set -x MANROFFOPT "-c" #uncomment this line if you experience formatting problems
 
 #### USE !! and !$ IN FISH ####
 
