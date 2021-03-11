@@ -113,10 +113,10 @@ end
 alias clear='clear; echo; echo; seq 1 (tput cols) | sort -R | spark | lolcat; echo; echo'
 
 # ls change to exa
-alias ls='exa -l --color=always --group-directories-first' # standard listing
-alias la='exa -a --color=always --group-directories-first'  # all files and dirs
-alias ll='exa -al --color=always --group-directories-first'  # long format all files
-alias lt='exa -aT --color=always --group-directories-first' # tree listing
+alias ls='exa -l --color=always --group-directories-first --header' # standard listing
+alias la='exa -a --color=always --group-directories-first --header'  # all files and dirs
+alias ll='exa -al --color=always --group-directories-first --header'  # long format all files
+alias lt='exa -aT --color=always --group-directories-first --header' # tree listing
 
 # cat change to bat
 alias cat='bat'
