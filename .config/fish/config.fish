@@ -7,18 +7,13 @@ end
 
 export MICRO_TRUECOLOR=1
 
-#### INIT STARSHIP ####
-
-starship init fish | source
-
-#### INIT ZOXIDE ####
+#### ZOXIDE ####
 
 zoxide init fish | source
 
 #### "BAT" AS A MANPAGER
 
-set -x MANPAGER "sh -c 'col -bx | bat -l man -p'"
-#set -x MANROFFOPT "-c" #uncomment this line if you experience formatting problems
+set -x MANPAGER "sh -c 'col -bx | bat -l man -p'" 
 
 #### USE !! and !$ IN FISH ####
 
@@ -112,14 +107,16 @@ end
 
 alias clear='clear; echo; echo; seq 1 (tput cols) | sort -R | spark | lolcat; echo; echo'
 
-# ls change to exa
-alias ls='exa -l --color=always --group-directories-first --header' # standard listing
-alias la='exa -a --color=always --group-directories-first --header'  # all files and dirs
-alias ll='exa -al --color=always --group-directories-first --header'  # long format all files
-alias lt='exa -aT --color=always --group-directories-first' # tree listing
+# ls change to lsd
+alias ls='lsd -l --icon-theme unicode --group-dirs first' # standard listing
+alias la='lsd -la --icon-theme unicode --group-dirs first'  # all files and dirs
+alias lt='lsd --tree --icon-theme unicode --group-dirs first' # tree listing
 
 # cat change to bat
 alias cat='bat'
+
+# top change to ytop
+alias top='ytop'
 
 # update system
 alias update='sudo pacman -Syu'
@@ -130,4 +127,10 @@ alias df='duf'
 #### FISH AUTOSTART ####
 
 echo; echo; seq 1 (tput cols) | sort -R | spark | lolcat; echo; echo
+
+#### INIT STARSHIP ####
+
+starship init fish | source
+
+
 
