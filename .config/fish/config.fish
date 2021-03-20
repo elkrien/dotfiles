@@ -105,12 +105,19 @@ end
 
 #### ALIASES ####
 
-alias clear='clear; echo; echo; seq 1 (tput cols) | sort -R | spark | lolcat; echo; echo'
+alias cl='clear; echo; echo; seq 1 (tput cols) | sort -R | spark | lolcat; echo; echo'
 
 # ls change to lsd
 alias ls='lsd -l --icon-theme unicode --group-dirs first' # standard listing
 alias la='lsd -la --icon-theme unicode --group-dirs first'  # all files and dirs
 alias lt='lsd --tree --icon-theme unicode --group-dirs first' # tree listing
+
+# navigation
+alias ..='cd ..'
+alias ...='cd ../..'
+alias .3='cd ../../..'
+alias .4='cd ../../../..'
+alias .5='cd ../../../../..'
 
 # cat change to bat
 alias cat='bat'
