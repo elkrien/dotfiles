@@ -32,11 +32,12 @@ format = "[ ](bold cyan) [$path]($style)[$lock_symbol]($lock_style) "
 style = "bold cyan"
 read_only = "🔒"
 read_only_style= "bold red"
+#truncation_symbol = "…/"
 
 # Git settings
 [git_branch]
 symbol = "🌱 "
-truncation_length = 4
+truncation_length = 5
 truncation_symbol = ""
 
 [git_commit]
@@ -64,4 +65,4 @@ deleted = "🗑"
 disabled = false
 format = '🕙 [\[$time\]]($style) '
 style = "bold yellow"
-time_format = "%T"
+time_format = "%R"
