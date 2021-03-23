@@ -3,10 +3,12 @@ Configuration files of my system and programs.
 
 #### GENERAL:
 - `.config/fish` - Fish shell
+- `.config/htop` - Htop (process viewer)
 - `.config/starship.toml` - Starship prompt
 - `.config/kitty` - Kitty terminal
 - `.config/Typora` - Typora (markdown editor)
 - `.config/micro` - Micro (terminal-based editor)
+- `.config/neofetch` - Neofetch (system info)
 - `.local/share/backgrounds` - starting wallpaper
 
 #### GNOME
