@@ -108,9 +108,16 @@ end
 alias cl='clear; echo; echo; seq 1 (tput cols) | sort -R | spark | lolcat; echo; echo'
 
 # ls change to lsd
-alias ls='lsd -l --icon-theme unicode --group-dirs first' # standard listing
-alias la='lsd -la --icon-theme unicode --group-dirs first'  # all files and dirs
-alias lt='lsd --tree --icon-theme unicode --group-dirs first' # tree listing
+# alias ls='lsd -l --icon-theme unicode --group-dirs first' # standard listing
+# alias la='lsd -la --icon-theme unicode --group-dirs first'  # all files and dirs
+# alias lt='lsd --tree --icon-theme unicode --group-dirs first' # tree listing
+
+# ls change to exa
+alias ls='exa -lgh --color=always --group-directories-first' # standard listing
+alias la='exa -lagh --color=always --group-directories-first'  # all files and dirs
+alias lt='exa -aT --color=always --group-directories-first' # tree listing
+alias l.='exa -a | egrep "^\."' # only hidden (.)
+
 
 # navigation
 alias ..='cd ..'
@@ -130,6 +137,10 @@ alias update='sudo pacman -Syu'
 
 # df change to duf
 alias df='duf'
+
+# neofetch
+alias fetch='neofetch'
+alias fetchc='neofetch | lolcat'
 
 #### FISH AUTOSTART ####
 
