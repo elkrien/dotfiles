@@ -2,6 +2,7 @@
 Configuration files of my system and programs.
 
 #### GENERAL:
+- `.config/alacritty` - Allacrity terminal
 - `.config/fish` - Fish shell
 - `.config/htop` - Htop (process viewer)
 - `.config/starship.toml` - Starship prompt
