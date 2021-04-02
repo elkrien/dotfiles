@@ -1,6 +1,11 @@
 # Opacity
-
 background_opacity: 1  # value range is 0 ~ 1
+
+# Window padding (changes require restart)  
+window:
+    padding:
+        x: 6
+        y: 6
 
 # Fonts
 font:
@@ -17,6 +22,8 @@ font:
         family: Fira Code
     style: Bold Italic
     size: 11
+
+draw_bold_text_with_bright_colors: true
 
 # Colors (Dracula PRO)
 colors:
@@ -71,3 +78,33 @@ colors:
     magenta: '0xff99cc'
     cyan:    '0x99ffee'
     white:   '0xffffff'
+
+# Cursor style
+cursor:
+  style:
+    shape: Beam
+
+scrolling:
+  # Maximum number of lines in the scrollback buffer.
+  # Specifying '0' will disable scrolling.
+  history: 5000
+
+key_bindings:
+    # (Windows, Linux, and BSD only)
+  - { key: V,         mods: Control|Shift, action: Paste                       }
+  - { key: C,         mods: Control|Shift, action: Copy                        }
+  - { key: Insert,    mods: Shift,         action: PasteSelection              }
+  - { key: Key0,      mods: Control,       action: ResetFontSize               }
+  - { key: Equals,    mods: Control,       action: IncreaseFontSize            }
+  - { key: Plus,      mods: Control,       action: IncreaseFontSize            }
+  - { key: Minus,     mods: Control,       action: DecreaseFontSize            }
+  - { key: F11,       mods: None,          action: ToggleFullscreen            }
+  - { key: Q,         mods: Control|Shift, action: Quit                        }
+  - { key: Paste,     mods: None,          action: Paste                       }
+  - { key: Copy,      mods: None,          action: Copy                        }
+  - { key: L,         mods: Control,       action: ClearLogNotice              }
+  - { key: L,         mods: Control,       chars: "\x0c"                       }
+  - { key: PageUp,    mods: None,          action: ScrollPageUp,   mode: ~Alt  }
+  - { key: PageDown,  mods: None,          action: ScrollPageDown, mode: ~Alt  }
+  - { key: Home,      mods: Shift,         action: ScrollToTop,    mode: ~Alt  }
+  - { key: End,       mods: Shift,         action: ScrollToBottom, mode: ~Alt  }
