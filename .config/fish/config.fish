@@ -1,22 +1,21 @@
 #### NO GREETING WHEN START ####
-
 function fish_greeting
 end
 
 #### MICRO COLORS ####
-
 export MICRO_TRUECOLOR=1
 
 #### ZOXIDE ####
-
 zoxide init fish | source
 
 #### "BAT" AS A MANPAGER
-
 set -x MANPAGER "sh -c 'col -bx | bat -l man -p'" 
 
-#### USE !! and !$ IN FISH ####
+### SETTINGS FOR DONE (https://github.com/franciscolourenco/done)
+set -U __done_min_cmd_duration 10000
+set -U __done_notification_urgency_level low
 
+#### USE !! and !$ IN FISH ####
 function __history_previous_command
   switch (commandline -t)
   case "!"
@@ -41,7 +40,6 @@ end
   bind '$' __history_previous_command_arguments
 
 #### SPARK ####
-
 set -g spark_version 1.0.0
 
 complete -xc spark -n __fish_use_subcommand -a --help -d "Show usage help"
@@ -103,6 +101,28 @@ function commits
     git log --author="$argv" --format=format:%ad --date=short | uniq -c | awk '{print $1}' | spark | lolcat
 end
 
+### COMMAND HISTORY
+function history
+    builtin history --show-time='%F %T '
+end
+
+### BACKUP OF FILE
+function backup --argument filename
+    cp $filename $filename.bak
+end
+
+### COPY DIR1 DIR2
+function copy
+    set count (count $argv | tr -d \n)
+    if test "$count" = 2; and test -d "$argv[1]"
+	set from (echo $argv[1] | trim-right /)
+	set to (echo $argv[2])
+        command cp -r $from $to
+    else
+        command cp $argv
+    end
+end
+
 #### ALIASES ####
 
 alias cl='clear; echo; echo; seq 1 (tput cols) | sort -R | spark | lolcat; echo; echo'
@@ -117,7 +137,6 @@ alias ls='exa -lgh --color=always --group-directories-first' # standard listing
 alias la='exa -lagh --color=always --group-directories-first'  # all files and dirs
 alias lt='exa -aT --color=always --group-directories-first' # tree listing
 alias l.='exa -a | egrep "^\."' # only hidden (.)
-
 
 # navigation
 alias ..='cd ..'
@@ -139,8 +158,14 @@ alias update='sudo pacman -Syu'
 alias df='duf'
 
 # neofetch
-alias fetch='neofetch'
-alias fetchc='neofetch | lolcat'
+alias neo='neofetch'
+alias neoc='neofetch | lolcat'
+
+# Get fastest mirrors 
+alias mirror="sudo reflector -f 30 -l 30 --number 10 --verbose --save /etc/pacman.d/mirrorlist" 
+
+# Cleanup orphaned packages
+alias cleanup='sudo pacman -Rns (pacman -Qtdq)'
 
 #### FISH AUTOSTART ####
 
@@ -149,6 +174,3 @@ echo; echo; seq 1 (tput cols) | sort -R | spark | lolcat; echo; echo
 #### INIT STARSHIP ####
 
 starship init fish | source
-
-
-
