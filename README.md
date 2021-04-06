@@ -1,11 +1,11 @@
 # DOTFILES
-Configuration files of my system and programs:
+Configuration files of my system and programs that I use in various desktop environments:
 - Linux Arch
+- DE: Gnome and XFCE (Plasma todo)
 - Theme and colors: Dracula (https://draculatheme.com)
 - Icons: Papirus Dark (with modified colors of folders)
 - Terminal: Kitty
-- Shell: Fish
-- DE: Gnome and XFCE (Plasma todo)
+- Shell: Fish + Starship
 
 ![](https://github.com/elkrien/dotfiles/blob/master/Screenshot.png?raw=true)
 
