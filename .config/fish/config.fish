@@ -2,6 +2,14 @@
 function fish_greeting
 end
 
+
+# Add ~/.local/bin to PATH
+if test -d ~/.local/bin
+    if not contains -- ~/.local/bin $PATH
+        set -p PATH ~/.local/bin
+    end
+end
+
 #### MICRO COLORS ####
 export MICRO_TRUECOLOR=1
 
@@ -152,7 +160,7 @@ alias cat='bat'
 alias top='ytop'
 
 # update system
-alias update='sudo pacman -Syu'
+alias update='sudo pacman -Syu && paru'
 
 # df change to duf
 alias df='duf'
