@@ -1,5 +1,5 @@
 # DOTFILES
-Configuration files of my system and programs that I use in various desktop environments:
+Configuration files of my system and programs that I use in various desktop environments. Details of all config files below screenchots.
 - Linux Arch
 - DE: Gnome and XFCE (Plasma todo)
 - Theme and colors: Dracula (https://draculatheme.com)
@@ -8,6 +8,8 @@ Configuration files of my system and programs that I use in various desktop envi
 - Shell: Fish + Starship
 
 ![](https://github.com/elkrien/dotfiles/blob/master/Screenshot.png?raw=true)
+
+![](https://github.com/elkrien/dotfiles/blob/master/Screenshot2.png?raw=true)
 
 #### GENERAL:
 - `.config/alacritty` - Allacrity terminal
