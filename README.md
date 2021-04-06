@@ -1,6 +1,8 @@
 # DOTFILES
 Configuration files of my system and programs.
 
+![](https://github.com/elkrien/dotfiles/blob/main/Screenshot.png?raw=true)
+
 #### GENERAL:
 - `.config/alacritty` - Allacrity terminal
 - `.config/fish` - Fish shell
