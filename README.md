@@ -1,7 +1,7 @@
 # DOTFILES
 Configuration files of my system and programs.
 
-![](https://github.com/elkrien/dotfiles/blob/main/Screenshot.png?raw=true)
+![](https://github.com/elkrien/dotfiles/blob/master/Screenshot.png?raw=true)
 
 #### GENERAL:
 - `.config/alacritty` - Allacrity terminal
