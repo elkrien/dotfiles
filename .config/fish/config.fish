@@ -1,9 +1,11 @@
-#### NO GREETING WHEN START ####
-function fish_greeting
-end
-
-
-# Add ~/.local/bin to PATH
+#     ██████╗ ███████╗███╗   ██╗███████╗██████╗  █████╗ ██╗     
+#    ██╔════╝ ██╔════╝████╗  ██║██╔════╝██╔══██╗██╔══██╗██║     
+#    ██║  ███╗█████╗  ██╔██╗ ██║█████╗  ██████╔╝███████║██║     
+#    ██║   ██║██╔══╝  ██║╚██╗██║██╔══╝  ██╔══██╗██╔══██║██║     
+#    ╚██████╔╝███████╗██║ ╚████║███████╗██║  ██║██║  ██║███████╗
+#     ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+                                                           
+# ADD ~/.local/bin TO PATH
 if test -d ~/.local/bin
     if not contains -- ~/.local/bin $PATH
         set -p PATH ~/.local/bin
@@ -13,9 +15,6 @@ end
 #### MICRO COLORS ####
 export MICRO_TRUECOLOR=1
 
-#### ZOXIDE ####
-zoxide init fish | source
-
 #### "BAT" AS A MANPAGER
 set -x MANPAGER "sh -c 'col -bx | bat -l man -p'" 
 
@@ -23,6 +22,14 @@ set -x MANPAGER "sh -c 'col -bx | bat -l man -p'"
 set -U __done_min_cmd_duration 10000
 set -U __done_notification_urgency_level low
 
+
+#    ███████╗██╗   ██╗███╗   ██╗ ██████╗████████╗██╗ ██████╗ ███╗   ██╗███████╗
+#    ██╔════╝██║   ██║████╗  ██║██╔════╝╚══██╔══╝██║██╔═══██╗████╗  ██║██╔════╝
+#    █████╗  ██║   ██║██╔██╗ ██║██║        ██║   ██║██║   ██║██╔██╗ ██║███████╗
+#    ██╔══╝  ██║   ██║██║╚██╗██║██║        ██║   ██║██║   ██║██║╚██╗██║╚════██║
+#    ██║     ╚██████╔╝██║ ╚████║╚██████╗   ██║   ██║╚██████╔╝██║ ╚████║███████║
+#    ╚═╝      ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
+                                                                          
 #### USE !! and !$ IN FISH ####
 function __history_previous_command
   switch (commandline -t)
@@ -131,8 +138,14 @@ function copy
     end
 end
 
-#### ALIASES ####
-
+#    █████╗ ██╗     ██╗ █████╗ ███████╗███████╗███████╗
+#   ██╔══██╗██║     ██║██╔══██╗██╔════╝██╔════╝██╔════╝
+#   ███████║██║     ██║███████║███████╗█████╗  ███████╗
+#   ██╔══██║██║     ██║██╔══██║╚════██║██╔══╝  ╚════██║
+#   ██║  ██║███████╗██║██║  ██║███████║███████╗███████║
+#   ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
+                                                   
+# clear screen
 alias cl='clear; echo; echo; seq 1 (tput cols) | sort -R | spark | lolcat; echo; echo'
 
 # ls change to lsd
@@ -160,7 +173,11 @@ alias cat='bat'
 alias top='ytop'
 
 # update system
-alias update='sudo pacman -Syu && paru'
+alias update='sudo pacman -Syu && paru -Sua'
+
+# paru & yay
+alias paru='paru --skipreview'
+alias yay='paru --skipreview'
 
 # df change to duf
 alias df='duf'
@@ -175,10 +192,23 @@ alias mirror="sudo reflector -f 30 -l 30 --number 10 --verbose --save /etc/pacma
 # Cleanup orphaned packages
 alias cleanup='sudo pacman -Rns (pacman -Qtdq)'
 
-#### FISH AUTOSTART ####
 
-echo; echo; seq 1 (tput cols) | sort -R | spark | lolcat; echo; echo
+#     █████╗ ██╗   ██╗████████╗ ██████╗ ███████╗████████╗ █████╗ ██████╗ ████████╗
+#    ██╔══██╗██║   ██║╚══██╔══╝██╔═══██╗██╔════╝╚══██╔══╝██╔══██╗██╔══██╗╚══██╔══╝
+#    ███████║██║   ██║   ██║   ██║   ██║███████╗   ██║   ███████║██████╔╝   ██║   
+#    ██╔══██║██║   ██║   ██║   ██║   ██║╚════██║   ██║   ██╔══██║██╔══██╗   ██║   
+#    ██║  ██║╚██████╔╝   ██║   ╚██████╔╝███████║   ██║   ██║  ██║██║  ██║   ██║   
+#    ╚═╝  ╚═╝ ╚═════╝    ╚═╝    ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
+                                                                             
+#### ZOXIDE ####
+zoxide init fish | source
 
 #### INIT STARSHIP ####
-
 starship init fish | source
+
+#### NO GREETING WHEN START ####
+function fish_greeting
+end
+
+#### CLEAR AND SPARK ON START ####
+echo; echo; seq 1 (tput cols) | sort -R | spark | lolcat; echo; echo
