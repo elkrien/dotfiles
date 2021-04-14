@@ -154,9 +154,9 @@ alias cl='clear; echo; echo; seq 1 (tput cols) | sort -R | spark | lolcat; echo;
 # alias lt='lsd --tree --icon-theme unicode --group-dirs first' # tree listing
 
 # ls change to exa
-alias ls='exa -lgh --color=always --group-directories-first' # standard listing
-alias la='exa -lagh --color=always --group-directories-first'  # all files and dirs
-alias lt='exa -aT --color=always --group-directories-first' # tree listing
+alias ls='exa -lgh --color=always --group-directories-first --icons' # standard listing
+alias la='exa -lagh --color=always --group-directories-first --icons'  # all files and dirs
+alias lt='exa -aT --color=always --group-directories-first --icons' # tree listing
 alias l.='exa -a | egrep "^\."' # only hidden (.)
 
 # navigation
