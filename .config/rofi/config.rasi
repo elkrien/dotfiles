@@ -1,5 +1,15 @@
 /*Dracula theme based on the Purple official rofi theme*/
 
+configuration {
+    display-file-browser: " ";
+    display-drun: " ";
+//  display-window: "  ";
+//  drun-display-format: "{icon} {name}";
+//  font: "JetBrainsMono 12";
+//  modi: "window,run,drun";
+//  show-icons: true;
+}
+
 * {
     font: "Jetbrains Mono 12";
     foreground: #f8f8f2;
@@ -110,6 +120,7 @@
 #prompt {
     spacing:    0;
     text-color: @foreground;
+    font: "FontAwesome 12";
 }
 #inputbar {
     children:   [ prompt,textbox-prompt-colon,entry,case-indicator ];
