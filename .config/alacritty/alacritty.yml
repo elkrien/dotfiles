@@ -1,31 +1,33 @@
 # Opacity
-background_opacity: 1  # value range is 0 ~ 1
+background_opacity: 0.90  # value range is 0 ~ 1
 
 # Window padding (changes require restart)  
 window:
     padding:
-        x: 6
+        x: 8
         y: 6
+
+    startup_mode: Windowed
 
 # Fonts
 font:
     normal:
-        family: Fira Code
+        family: JetBrains Mono #Fira Code
         style: Regular
     bold:
-        family: Fira Code
+        family: JetBrains Mono #Fira Code
         style: Bold
     italic:
-        family: Fira Code
+        family: JetBrains Mono #Fira Code
         style: Italic
     bold_italic:
-        family: Fira Code
+        family: JetBrains Mono #Fira Code
     style: Bold Italic
-    size: 9
+    size: 11
 
 draw_bold_text_with_bright_colors: true
 
-# Colors
+# Colors (Dracula PRO)
 colors:
   # Default colors
   primary:
