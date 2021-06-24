@@ -6,7 +6,9 @@ window:
     padding:
         x: 8
         y: 6
-
+    dimensions:
+        columns: 120
+        lines:  35
     startup_mode: Windowed
 
 # Fonts
